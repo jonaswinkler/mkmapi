@@ -1,0 +1,5 @@
+/cache.json.gz
+/auth_live.json
+/auth_sandbox.json
+/target/
+/.idea/
